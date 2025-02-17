@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Chaudhary</h1>
-<h3 align="center">A passionate Data Science and Web Developer from India, skilled in building data-driven solutions and dynamic web applications. I excel in analyzing complex datasets, creating insightful visualizations, and developing robust, user-friendly web interfaces with modern technologies.</h3>
+<h3 align="center">A dedicated Data Scientist and Web Developer from India, specializing in building intelligent, data-driven solutions and interactive web applications. Proficient in analyzing complex datasets, deriving meaningful insights, and crafting intuitive visualizations. Passionate about developing scalable, user-centric web platforms using modern technologies to drive innovation and efficiency</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgithubok&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgithubok" /> </p>
 
